@@ -12,5 +12,6 @@ public class CurrencyConvertingServiceApplicationTests {
 	@Test
 	public void contextLoads() {
 	}
+	
 
 }
